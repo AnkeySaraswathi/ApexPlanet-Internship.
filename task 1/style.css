@@ -1,0 +1,54 @@
+/* General Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f4f8;
+  color: #333;
+  margin: 0;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Header */
+header h1 {
+  color: #007acc;
+  margin-bottom: 20px;
+}
+
+/* Paragraphs */
+p {
+  font-size: 18px;
+  margin: 15px 0;
+}
+
+/* Image Styling */
+img {
+  width: 300px;
+  border-radius: 10px;
+  margin: 15px 0;
+}
+
+/* Link Styling */
+a {
+  color: #0056b3;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Button Styling */
+button {
+  padding: 10px 20px;
+  background-color: #28a745;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #218838;
+}
